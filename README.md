@@ -10,5 +10,5 @@ Abre y fusiona una solicitud de cambios.
 
 ## __Requisitos previos__
 
-[logo](https://share.google/images/trnXfbcv5KoTENnq3)
+[logo]https://share.google/images/trnXfbcv5KoTENnq3
 [https://www.youtube.com/watch?v=uuYrENU1KcQ]

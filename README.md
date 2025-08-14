@@ -10,5 +10,6 @@ Abre y fusiona una solicitud de cambios.
 
 ## __Requisitos previos__
 
-[https://share.google/images/trnXfbcv5KoTENnq3]
+[<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9306540f-eba5-403c-ae07-722f55dad00a" />
+]
 [https://www.youtube.com/watch?v=uuYrENU1KcQ]
